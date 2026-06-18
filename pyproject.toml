@@ -1,0 +1,20 @@
+[project]
+name = "sakshibhatia17"
+version = "0.1.0"
+description = "Sakshi Bhatia's GitHub profile — with testable Python code."
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+test = ["pytest>=7.0", "pytest-cov>=4.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=sakshi_bhatia --cov-report=term-missing --cov-report=html"
+
+[tool.coverage.run]
+source = ["sakshi_bhatia"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 90
