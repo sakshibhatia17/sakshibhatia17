@@ -1,0 +1,212 @@
+# README Generator Configuration
+# All repeated values (colors, styles, badge patterns) are defined once here.
+
+# ─── Theme & Shared Constants ───────────────────────────────────────────────
+theme:
+  bg: "0d1117"
+  bg_secondary: "161b22"
+  border: "30363d"
+  colors:
+    blue: "58a6ff"
+    green: "3fb950"
+    yellow: "e3b341"
+    red: "ff7b72"
+    purple: "bc8cff"
+    cyan: "39d6c8"
+  badge_style: "flat-square"
+  badge_style_header: "for-the-badge"
+
+# ─── Personal Info ──────────────────────────────────────────────────────────
+profile:
+  name: "Sakshi Bhatia"
+  username: "sakshibhatia17"
+  email: "sakshibhatia696@gmail.com"
+  phone: "+91-6351059639"
+  linkedin_url: "https://www.linkedin.com/in/sakshi-bhatia-6928a1321/"
+  github_url: "https://github.com/sakshibhatia17"
+  role: "Full-Stack Developer & Software Engineer"
+  typing_lines:
+    - "Full-Stack+Developer+%26+Software+Engineer"
+    - "Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker"
+    - "ECE+%40+IIIT-J+%2B+Data+Science+%40+IIT-M"
+    - "Hackathon+Champion+%F0%9F%8F%86+%7C+Open+Source+Enthusiast"
+    - "National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Robotics+%7C+IoT"
+    - "Building+Scalable+%26+Meaningful+Products"
+
+# ─── Education ──────────────────────────────────────────────────────────────
+education:
+  header_badges:
+    - label: "IIIT_Jabalpur"
+      message: "B.Tech_ECE"
+      color: "blue"
+    - label: "IIT_Madras"
+      message: "BS_Data_Science"
+      color: "green"
+    - label: "Class_XII"
+      message: "93.8%25"
+      color: "yellow"
+    - label: "Class_X"
+      message: "97%25"
+      color: "red"
+  table:
+    - institution: "IIIT Jabalpur"
+      degree: "B.Tech — Electronics & Communication Engineering"
+      year: "Aug 2024 – Present"
+    - institution: "IIT Madras"
+      degree: "B.S. — Data Science & Applications"
+      year: "Aug 2024 – Present"
+    - institution: "Kendriya Vidyalaya ONGC"
+      prefix: ""
+      suffix: ""
+      degree: "Class XII: **93.8%** · Class X: **97%**"
+      year: "2012 – 2024"
+  courses: "Data Structures & Algorithms · Machine Learning · IoT Systems · OOP · Computer Networks · Computational Thinking · Database Management"
+
+# ─── Tech Stack ─────────────────────────────────────────────────────────────
+tech_stack:
+  languages:
+    title: "🗣️ Languages"
+    badges:
+      - name: "Python"
+        level: "Expert"
+        color: "green"
+        logo: "python"
+      - name: "Java"
+        level: "Strong"
+        color: "purple"
+        logo: "openjdk"
+      - name: "JavaScript"
+        level: "Strong"
+        color: "yellow"
+        logo: "javascript"
+      - name: "C++"
+        level: "Proficient"
+        color: "red"
+        logo: "cplusplus"
+      - name: "SQL"
+        level: "Proficient"
+        color: "yellow"
+        logo: "postgresql"
+      - name: "HTML/CSS"
+        level: "Proficient"
+        color: "cyan"
+        logo: "html5"
+  frameworks:
+    title: "🧱 Frameworks & DevOps"
+    badges:
+      - name: "Next.js"
+        logo: "nextdotjs"
+        color: "white"
+      - name: "React"
+        logo: "react"
+        color: "blue"
+      - name: "FastAPI"
+        logo: "fastapi"
+        color: "cyan"
+      - name: "Node.js"
+        logo: "nodedotjs"
+        color: "green"
+      - name: "Flask"
+        logo: "flask"
+        color: "blue"
+      - name: "Docker"
+        logo: "docker"
+        color: "green"
+      - name: "GCP"
+        logo: "googlecloud"
+        color: "blue"
+      - name: "PostgreSQL"
+        logo: "postgresql"
+        color: "blue"
+      - name: "Figma"
+        logo: "figma"
+        color: "yellow"
+  ml:
+    title: "🤖 ML / Data Science"
+    badges:
+      - name: "PyTorch"
+        logo: "pytorch"
+        color: "blue"
+      - name: "OpenCV"
+        logo: "opencv"
+        color: "green"
+      - name: "HuggingFace"
+        logo: "huggingface"
+        color: "yellow"
+      - name: "scikit-learn"
+        logo: "scikitlearn"
+        color: "yellow"
+      - name: "NumPy"
+        logo: "numpy"
+        color: "blue"
+      - name: "Pandas"
+        logo: "pandas"
+        color: "purple"
+
+# ─── Projects ───────────────────────────────────────────────────────────────
+projects:
+  - icon: "⚡"
+    name: "Productivity Pro Suite"
+    url: "https://github.com/sakshibhatia17"
+    subtitle: "Chrome Extension"
+    tags: ["JavaScript", "Chrome APIs", "Gemini AI", "Google Calendar API"]
+    description: "A Chrome extension that kills context-switching and task fragmentation for knowledge workers."
+    highlights:
+      - "🧠 **AI-powered** task automation via Gemini API integration"
+      - "⏱️ Built-in focus timer with Google Calendar sync for seamless scheduling"
+      - "📈 **150+ active users** · saves **70+ hours/week** collectively"
+      - "🔌 Fully modular, open architecture — easy to extend with new integrations"
+
+  - icon: "👁️"
+    name: "Driver Drowsiness Detection System"
+    url: "https://github.com/sakshibhatia17"
+    subtitle: null
+    tags: ["Python", "OpenCV", "Machine Learning", "Computer Vision"]
+    description: "Real-time CV safety system that detects driver fatigue before it's fatal."
+    highlights:
+      - "🎯 Eye Aspect Ratio (EAR) + facial landmark detection at **25+ FPS** — production-ready speed"
+      - "🔔 Automated audio alert system reduced reaction delay by **40%** in simulated environments"
+      - "🛡️ Designed for minimal false positives — reliable enough for real-world deployment"
+      - "🧪 Modular pipeline: easily swap detection models for domain adaptation"
+
+  - icon: "🚂"
+    name: "Railway Reservation Management System"
+    url: "https://github.com/sakshibhatia17"
+    subtitle: null
+    tags: ["Java", "OOP", "System Design"]
+    description: "A clean, modular reservation system built with software engineering best practices."
+    highlights:
+      - "🏗️ Scalable class architecture following SOLID principles"
+      - "🛡️ Robust exception handling for production-level reliability"
+      - "🔁 Extensible across multiple routes, booking flows & passenger types"
+      - "📐 Clear separation of concerns — easy to onboard new contributors"
+
+# ─── Achievements ───────────────────────────────────────────────────────────
+achievements:
+  - icon: "🥇"
+    title: "1st Place — Can You Hack It Hackathon"
+    details: "Beat **100+ teams** in a 24-hr national hackathon"
+  - icon: "🥇"
+    title: "1st Place — Abhikalpan'25 (IIITDM Jabalpur)"
+    details: "Won Laser Constellation event at IIIT Jabalpur's annual Techfest"
+  - icon: "🤖"
+    title: "TechnoXian 9.0 — World Robotics Championship"
+    details: "Competed in Delhi · achieved **90%+ task accuracy**"
+  - icon: "♟️"
+    title: "National Chess Player"
+    details: "Represented at prestigious national-level tournaments"
+  - icon: "💻"
+    title: "CodeChef Rating: 1570"
+    details: "Solved **100+ DSA problems** across Codeforces & CodeChef"
+
+# ─── Leadership ─────────────────────────────────────────────────────────────
+leadership:
+  - role: "📢 Abhikalpan'25 — PR & Sponsorship Lead"
+    org: "IIIT Jabalpur Annual Techfest"
+    description: "Led all PR and sponsorship operations — drove significant increase in registrations and ensured smooth, large-scale on-ground execution."
+  - role: "🎪 HackByte 3.0 (MLH-Affiliated) — Logistics Lead"
+    org: null
+    description: "End-to-end logistics management for **250+ attendees** · Coordinated a team of **10 volunteers** · Achieved **9/10 participant satisfaction score**."
+  - role: "🏛️ Student Senate Member"
+    org: null
+    description: "Spearheaded **3 campus sustainability initiatives** — each received unanimous faculty approval — directly reducing the college's environmental footprint."
