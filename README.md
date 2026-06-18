@@ -223,7 +223,6 @@ Spearheaded **3 campus sustainability initiatives** — each received unanimous 
 | 📧 Email | [sakshibhatia696@gmail.com](mailto:sakshibhatia696@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/sakshibhatia](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/) |
 | 🐙 GitHub | [github.com/sakshibhatia17](https://github.com/sakshibhatia17) |
-| 📱 Phone | +91-6351059639 |
 
 </div>
 
