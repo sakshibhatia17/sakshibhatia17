@@ -2,105 +2,97 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:0d1117&height=130&section=header&text=Sakshi%20Bhatia&fontColor=58a6ff&fontSize=42&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=620&lines=Full-Stack+Developer+%26+Software+Engineer;Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;ECE+%40+IIIT-J+%2B+Data+Science+%40+IIT-M;Hackathon+Champion+%F0%9F%8F%86+%7C+Open+Source+Enthusiast;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Robotics+%7C+IoT;Building+Scalable+%26+Meaningful+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=680&lines=Software+Engineer+%7C+Full-Stack+%2B+ML;React+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;ECE+%40+IIITDM+Jabalpur+%2B+Data+Science+%40+IIT+Madras;Building+ConfirmHoga+%E2%80%94+AI+Railway+Intelligence;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Drone+Systems+%7C+IoT;Open+Source+%40+GSSoC+%7C+Hackathon+Winner+%F0%9F%8F%86" />
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-sakshibhatia696%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:sakshibhatia696@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshi--bhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/)
 [![GitHub](https://img.shields.io/badge/GitHub-sakshibhatia17-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/sakshibhatia17)
 
-<br/>
-
-![IIIT Jabalpur](https://img.shields.io/badge/IIIT_Jabalpur-B.Tech_ECE-58a6ff?style=flat-square&labelColor=0d1117)
-![IIT Madras](https://img.shields.io/badge/IIT_Madras-BS_Data_Science-3fb950?style=flat-square&labelColor=0d1117)
-![Class XII](https://img.shields.io/badge/Class_XII-93.8%25-e3b341?style=flat-square&labelColor=0d1117)
-![Class X](https://img.shields.io/badge/Class_X-97%25-ff7b72?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_India-0d1117?style=flat-square&labelColor=0d1117&color=30363d)
 
 </div>
 
 ---
 
-## 👩‍💻 Who Am I?
+## 👩‍💻 About Me
 
 ```python
 class SakshiBhatia:
     def __init__(self):
-        self.role       = "Full-Stack Developer & Software Engineer"
-        self.education  = [
-            "IIIT Jabalpur — B.Tech ECE (2024–Present)",
-            "IIT Madras   — BS Data Science (2024–Present)"
+        self.role        = "Software Engineer — Full-Stack & ML"
+        self.education   = [
+            "IIITDM Jabalpur — B.Tech Electronics & Communication Eng. (CPI 8.1)",
+            "IIT Madras     — BS Data Science & Applications (Foundation)"
         ]
-        self.stack      = ["Next.js", "React", "FastAPI", "PostgreSQL", "Docker", "GCP"]
-        self.ml_tools   = ["PyTorch", "OpenCV", "HuggingFace", "scikit-learn"]
-        self.superpower = ["Hackathons", "Open Source", "Robotics", "IoT", "Chess ♟"]
-        self.values     = ["Ship fast", "Think deep", "Build for real users"]
-        self.open_to    = ["Internships", "Open Source Collabs", "Research", "SWE Roles"]
-        self.fun_fact   = "I program drones AND debug at 3 AM — sometimes both at once"
-        self.currently  = "Building things that actually matter 🚀"
+        self.stack       = ["React", "Next.js", "TypeScript", "FastAPI", "PostgreSQL", "Docker"]
+        self.data_tools  = ["Power BI", "DAX", "Pandas", "NumPy", "Scikit-learn"]
+        self.currently   = "Building ConfirmHoga — an AI-powered railway intelligence platform"
+        self.also_into   = ["Competitive Programming", "Open Source", "Drone Systems", "Chess ♟"]
+        self.open_to     = ["SWE Internships", "Open Source Collabs", "Research", "Hackathon Teams"]
+        self.fun_fact    = "I debug backend race conditions and opening theory with equal intensity"
 
     def greet(self):
-        print("Thanks for stopping by — let's build something great together!")
+        print("Thanks for stopping by — let's build something that matters!")
 
 me = SakshiBhatia()
 me.greet()
 ```
 
-> 🎯 **I am a dual-degree student** (ECE + Data Science) who bridges hardware intuition with software craftsmanship. I thrive at the intersection of **web engineering**, **ML systems**, and **competitive problem solving** — and I bring that cross-domain thinking to every project I touch.
+> 🎯 I bridge **hardware intuition** (ECE) with **software craftsmanship** (Data Science + full-stack engineering) — bringing that cross-domain thinking into every project, from ML pipelines to production APIs.
 
 ---
 
 ## 🎓 Education
 
-| 🏛️ Institution | 📘 Degree | 📅 Year |
+| 🏛️ Institution | 📘 Programme | 📅 Timeline |
 |---|---|---|
-| **IIIT Jabalpur** | B.Tech — Electronics & Communication Engineering | Aug 2024 – Present |
-| **IIT Madras** | B.S. — Data Science & Applications | Aug 2024 – Present |
-| Kendriya Vidyalaya ONGC | Class XII: **93.8%** · Class X: **97%** | 2012 – 2024 |
+| **PDPM IIITDM Jabalpur** | B.Tech — Electronics & Communication Engineering | Aug 2024 – Expected 2028 |
 
-📚 **Key Courses:** Data Structures & Algorithms · Machine Learning · IoT Systems · OOP · Computer Networks · Computational Thinking · Database Management
+📚 **Coursework:** Data Structures & Algorithms · Database Management Systems · Operating Systems · Computer Networks · System Design · OOP · Statistics
 
 ---
 
-## ⚙️ Tech Stack & Toolkit
+## ⚙️ Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ### 🗣️ Languages
-![Python](https://img.shields.io/badge/Python-Expert-3fb950?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-Strong-bc8cff?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-Strong-e3b341?style=flat-square&logo=javascript&logoColor=white&labelColor=0d1117)
-![C++](https://img.shields.io/badge/C++-Proficient-ff7b72?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-Proficient-e3b341?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Proficient-39d6c8?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3fb950?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-bc8cff?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-ff7b72?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-e3b341?style=flat-square&logo=javascript&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-58a6ff?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-e3b341?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff7b72?style=flat-square&logo=mathworks&logoColor=white&labelColor=0d1117)
 
 </td>
 <td valign="top" width="33%">
 
-### 🧱 Frameworks & DevOps
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+### 🧱 Frameworks & Cloud
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=39d6c8)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3fb950)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=58a6ff)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=3fb950)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=58a6ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=e3b341)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fb950)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=3fb950)
 
 </td>
 <td valign="top" width="33%">
 
-### 🤖 ML / Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=3fb950)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=e3b341)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=e3b341)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58a6ff)
+### 📊 Data / ML
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=bc8cff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58a6ff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=e3b341)
+![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=e3b341)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=3fb950)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=3fb950)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ff7b72)
 
 </td>
 </tr>
@@ -108,78 +100,90 @@ me.greet()
 
 ---
 
+## 📈 Coding Profiles
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeChef-3★_Rating_1668-5b2c6f?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-1a58a6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"/>
+</p>
+
+> 200+ problems solved across dynamic programming, graphs, and binary search.
+> *(Optional: add live LeetCode/Codeforces stat cards here once you confirm your handles — placeholders below.)*
+
+<!--
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=Fira+Code&ext=heatmap" height="150"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE" height="150"/>
+-->
+
+---
+
 ## 🚀 Featured Projects
 
-> Each project below solves a real problem. Click to explore the code.
+### 🚂 [ConfirmHoga — AI-Powered Railway Intelligence Platform](https://github.com/sakshibhatia17) `flagship`
+`React` `TypeScript` `FastAPI` `Scikit-learn` `PostgreSQL (Supabase)`
+
+> Predicts PNR confirmation probability and surfaces cost-saving "Jugaad" split-ticket routes for Indian Railways passengers.
+
+- 🎯 Random Forest Regressor on historical booking data — **91.8% accuracy** (R² 0.92, RMSE 0.11)
+- ⚡ Failover/caching architecture (Tenacity, Cachetools) across multiple live rail data providers for reliability
+- 🧠 Custom BFS graph-traversal to identify split-ticket combinations that save passengers money
+- 🗄️ Real-time train/fare data served via structured SQL queries against Supabase/PostgreSQL
+
+---
+
+### 🌍 [Environmental Risk Platform — HackByte 4.0](https://github.com/sakshibhatia17) `MLH Top 50`
+`FastAPI` `Next.js` `Scikit-learn`
+
+> Real-time AQI + water-quality intelligence across 50+ Indian cities, built at an MLH-affiliated national hackathon.
+
+- ⚡ Sub-200ms response times at scale
+- 🤖 4-tier LLM fallback chain (Gemini, Groq, DeepSeek) — 99% uptime through rate-limit spikes
+- 📄 Scikit-learn pipeline extracting structured data from PDF reports — **87% precision** on water-drinkability prediction
 
 ---
 
 ### ⚡ [Productivity Pro Suite](https://github.com/sakshibhatia17) — Chrome Extension
-`JavaScript` `Chrome APIs` `Gemini AI` `Google Calendar API`
+`JavaScript` `Chrome APIs` `Gemini API`
 
-> A Chrome extension that kills context-switching and task fragmentation for knowledge workers.
+> Kills context-switching for knowledge workers with AI-assisted task automation.
 
-- 🧠 **AI-powered** task automation via Gemini API integration
-- ⏱️ Built-in focus timer with Google Calendar sync for seamless scheduling
-- 📈 **150+ active users** · saves **70+ hours/week** collectively
-- 🔌 Fully modular, open architecture — easy to extend with new integrations
+- 🧠 Gemini API integration for task automation, synced with Google Calendar
+- 📈 **150+ active users**, latency reduced by 35% via async API orchestration
 
 ---
 
 ### 👁️ [Driver Drowsiness Detection System](https://github.com/sakshibhatia17)
-`Python` `OpenCV` `Machine Learning` `Computer Vision`
+`Python` `OpenCV` `Machine Learning`
 
-> Real-time CV safety system that detects driver fatigue before it's fatal.
+> Real-time CV safety system tracking Eye Aspect Ratio (EAR) at 25+ FPS.
 
-- 🎯 Eye Aspect Ratio (EAR) + facial landmark detection at **25+ FPS** — production-ready speed
-- 🔔 Automated audio alert system reduced reaction delay by **40%** in simulated environments
-- 🛡️ Designed for minimal false positives — reliable enough for real-world deployment
-- 🧪 Modular pipeline: easily swap detection models for domain adaptation
+- 🔔 Automated alerts cut simulated reaction delay by **40%**
+- 🧪 Validated across 500+ simulated frames
 
 ---
 
-### 🚂 [Railway Reservation Management System](https://github.com/sakshibhatia17)
-`Java` `OOP` `System Design`
-
-> A clean, modular reservation system built with software engineering best practices.
-
-- 🏗️ Scalable class architecture following SOLID principles
-- 🛡️ Robust exception handling for production-level reliability
-- 🔁 Extensible across multiple routes, booking flows & passenger types
-- 📐 Clear separation of concerns — easy to onboard new contributors
-
----
-
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
-| 🥇 **1st Place — Can You Hack It Hackathon** | Beat **100+ teams** in a 24-hr national hackathon |
-| 🥇 **1st Place — Abhikalpan'25 (IIITDM Jabalpur)** | Won Laser Constellation event at IIIT Jabalpur's annual Techfest |
-| 🤖 **TechnoXian 9.0 — World Robotics Championship** | Competed in Delhi · achieved **90%+ task accuracy** |
-| ♟️ **National Chess Player** | Represented at prestigious national-level tournaments |
-| 💻 **CodeChef Rating: 1570** | Solved **100+ DSA problems** across Codeforces & CodeChef |
+| 🥇 **Can You Hack It** | 1st place among 100+ teams — productivity-focused web extension |
+| 🥇 **Java Programming** | 100/100, Gold Medal, Batch Topper |
+| 🤖 **Technoxian 9.0 (Delhi NCR)** | Autonomous drone systems, 90%+ payload accuracy among 200+ teams |
+| ♟️ **National Chess Player** | Competed in state & national-level tournaments |
+| 🎓 **IIT Madras BS Data Science (Foundation)** | Python, Statistics, Math for Data Science, Computational Thinking |
 
 ---
 
-## 🌱 Open Source & Problem Solving
+## 🤝 Leadership & Community
 
-```text
-💡 Philosophy: Code should be readable by humans first, machines second.
+**🏛️ Student Senate Member**
+Spearheaded student-led sustainability initiatives — reduced the college's environmental footprint by **40%**.
 
-🔍 Areas I contribute to:
-   ├── Developer tools & productivity extensions
-   ├── Computer vision & real-time ML systems
-   ├── Backend APIs & database-optimized architectures
-   └── IoT & embedded systems (drone programming ✈️)
+**📢 Abhikalpan '25 & Collage Fests — PR & Sponsorship Lead** *(IIITDM Jabalpur Annual Techfest)*
+Contacted 50+ potential sponsors, driving a **35% increase** in event funding.
 
-📬 Open to:
-   ├── Open source collaborations — especially in AI/ML, web, or systems
-   ├── Pair programming, code reviews & mentoring
-   └── Hackathon teams — I've won before, let's win together
-```
-
-> 🤝 If you're working on something interesting, [reach out](mailto:sakshibhatia696@gmail.com) — I love collaborating on real-world problems.
+**🌱 Open Source Contributor — GirlScript Summer of Code (GSSoC)**
+Resolved bugs and enhanced modular components across open-source repos; authored unit tests, delivered via peer-reviewed PRs.
 
 ---
 
@@ -199,34 +203,26 @@ me.greet()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshibhatia17&bg_color=0d1117&color=58a6ff&line=3fb950&point=e3b341&area=true&hide_border=true" width="100%"/>
 </p>
 
----
-
-## 🤝 Leadership & Community
-
-**📢 Abhikalpan'25 — PR & Sponsorship Lead** *(IIIT Jabalpur Annual Techfest)*
-Led all PR and sponsorship operations — drove significant increase in registrations and ensured smooth, large-scale on-ground execution.
-
-**🎪 HackByte 3.0 (MLH-Affiliated) — Logistics Lead**
-End-to-end logistics management for **250+ attendees** · Coordinated a team of **10 volunteers** · Achieved **9/10 participant satisfaction score**.
-
-**🏛️ Student Senate Member**
-Spearheaded **3 campus sustainability initiatives** — each received unanimous faculty approval — directly reducing the college's environmental footprint.
+<!-- Snake contribution animation — requires the GitHub Action in snake.yml to be running -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakshibhatia17/sakshibhatia17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## 📬 Let's Connect
 
 <div align="center">
 
 | 🌐 Platform | 🔗 Link |
 |---|---|
 | 📧 Email | [sakshibhatia696@gmail.com](mailto:sakshibhatia696@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/sakshibhatia](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/) |
+| 💼 LinkedIn | [linkedin.com/in/sakshi-bhatia](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/) |
 | 🐙 GitHub | [github.com/sakshibhatia17](https://github.com/sakshibhatia17) |
 
 </div>
 
-> 💬 I'm always open to discussing **new projects**, **open source ideas**, **internship opportunities**, or just a good tech conversation. Don't hesitate to ping me!
+> 💬 Open to **SWE internships**, **open-source collaborations**, and **hackathon teams**. If you're building something interesting, reach out.
 
 ---
 
