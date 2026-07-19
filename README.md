@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:0d1117&height=130&section=header&text=Sakshi%20Bhatia&fontColor=58a6ff&fontSize=42&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=680&lines=Software+Engineer+%7C+Full-Stack+%2B+ML;React+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;ECE+%40+IIITDM+Jabalpur+%2B+Data+Science+%40+IIT+Madras;Building+ConfirmHoga+%E2%80%94+AI+Railway+Intelligence;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Drone+Systems+%7C+IoT;Open+Source+%40+GSSoC+%7C+Hackathon+Winner+%F0%9F%8F%86" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=680&lines=Software+Engineer+%7C+Full-Stack+%2B+AI/ML Agentic AI;React+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;ECE+%40+IIITDM+Jabalpur+%2B+Data+Science+%40+IIT+Madras;Building+ConfirmHoga+%E2%80%94+AI+Railway+Intelligence;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Drone+Systems+%7C+IoT;Open+Source+%40+GSSoC+%7C+Hackathon+Winner+%F0%9F%8F%86" />
 
 <br/>
 
