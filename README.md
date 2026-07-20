@@ -2,28 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:0d1117&height=130&section=header&text=Sakshi%20Bhatia&fontColor=58a6ff&fontSize=42&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=560&lines=Software+Engineer+%7C+Full-Stack+%2B+AI%2FML;Agentic+AI+%7C+React+%7C+FastAPI;PostgreSQL+%7C+Docker+%7C+System+Design;ECE+%40+IIITDM+Jabalpur+%2B+Data+Science+%40+IIT+Madras;Building+ConfirmHoga+%E2%80%94+AI+Railway+Intelligence;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Drone+Systems+%7C+IoT;Open+Source+%40+GSSoC+%7C+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=58A6FF&center=true&width=680&lines=Software+Engineer+%7C+Full-Stack+%2B+AI%2FML;Agentic+AI+%7C+React+%7C+FastAPI;PostgreSQL+%7C+Docker+%7C+System+Design;ECE+%40+IIITDM+Jabalpur+%2B+Data+Science+%40+IIT+Madras;Building+ConfirmHoga+%E2%80%94+AI+Railway+Intelligence;National+Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Drone+Systems+%7C+IoT;Open+Source+%40+GSSoC+%7C+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:sakshibhatia696@gmail.com"><img src="https://img.shields.io/badge/Email-sakshibhatia696%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22" /></a>
-<a href="https://www.linkedin.com/in/sakshi-bhatia-6928a1321/"><img src="https://img.shields.io/badge/LinkedIn-sakshi--bhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22" /></a>
-<a href="https://github.com/sakshibhatia17"><img src="https://img.shields.io/badge/GitHub-sakshibhatia17-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding girl animation"/>
 
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="260" alt="Coding girl animation"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -251,5 +236,7 @@ commented out or it will show as a broken image.
 
 **"Build with intention. Ship with pride. Learn always."**
 
+<sub>ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi</sub>
+</div>
 <sub>ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi</sub>
 </div>
