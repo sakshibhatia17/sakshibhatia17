@@ -102,11 +102,11 @@ me.greet()
 <p align="left">
   <img src="https://img.shields.io/badge/CodeChef-3★_Rating_1668-5b2c6f?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Codeforces-Pupil-1a58a6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/LeetCode-Rating_1650-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LeetCode-Rating_1668-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/>
 </p>
 
-> 250+ problems solved across dynamic programming, graphs, and binary search.
-
+> 200+ problems solved across dynamic programming, graphs, and binary search.
+> *(Optional: add live LeetCode/Codeforces stat cards here once you confirm your handles — placeholders below.)*
 
 <!--
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=Fira+Code&ext=heatmap" height="150"/>
@@ -201,18 +201,9 @@ Resolved bugs and enhanced modular components across open-source repos; authored
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshibhatia17&bg_color=0d1117&color=58a6ff&line=3fb950&point=e3b341&area=true&hide_border=true" width="100%"/>
 </p>
 
-<!--
-Snake contribution animation — this ONLY renders if you've set up the GitHub Action
-that generates it. Steps: (1) create a repo named exactly "sakshibhatia17" (same as
-your username) if you don't have one, (2) add a workflow file at
-.github/workflows/snake.yml using the action from Platane/snk, (3) let it run once
-via Actions tab so the output branch + SVG get generated. Until then, keep this
-commented out or it will show as a broken image.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sakshibhatia17/sakshibhatia17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
--->
 
 ---
 
@@ -238,5 +229,6 @@ commented out or it will show as a broken image.
 **"Build with intention. Ship with pride. Learn always."**
 
 ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi
+</div>
 </div>
 </div>
