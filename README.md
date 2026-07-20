@@ -102,10 +102,11 @@ me.greet()
 <p align="left">
   <img src="https://img.shields.io/badge/CodeChef-3★_Rating_1668-5b2c6f?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Codeforces-Pupil-1a58a6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LeetCode-Rating_1650-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/>
 </p>
 
-> 200+ problems solved across dynamic programming, graphs, and binary search.
-> *(Optional: add live LeetCode/Codeforces stat cards here once you confirm your handles — placeholders below.)*
+> 250+ problems solved across dynamic programming, graphs, and binary search.
+
 
 <!--
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=Fira+Code&ext=heatmap" height="150"/>
@@ -193,7 +194,7 @@ Resolved bugs and enhanced modular components across open-source repos; authored
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshibhatia17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" width="520"/>
+  <img src="https://streak-stats.demolab.com/?user=sakshibhatia17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" width="520"/>
 </p>
 
 <p align="center">
@@ -236,7 +237,6 @@ commented out or it will show as a broken image.
 
 **"Build with intention. Ship with pride. Learn always."**
 
-<sub>ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi</sub>
+ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi
 </div>
-<sub>ECE × Data Science × Open Source × Robotics × Chess ♟ · Made with 💙 by Sakshi</sub>
 </div>
