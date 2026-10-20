@@ -19,7 +19,7 @@ class SakshiBhatia:
     def __init__(self):
         self.role        = "Software Engineer — Full-Stack & ML"
         self.education   = [
-            "IIITDM Jabalpur — B.Tech Electronics & Communication Eng. (CPI 8.1)",
+            "IIITDM Jabalpur — B.Tech Electronics & Communication Eng. ",
             "IIT Madras     — BS Data Science & Applications (Foundation)"
         ]
         self.stack       = ["React", "Next.js", "TypeScript", "FastAPI", "PostgreSQL", "Docker"]
